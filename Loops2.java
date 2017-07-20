@@ -1,7 +1,7 @@
 
             import java.util.Scanner;
 
-public class lab1d
+public class Loops2
 {
 		public static void main(String args[])
 		{

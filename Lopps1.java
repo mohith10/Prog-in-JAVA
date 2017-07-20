@@ -3,7 +3,7 @@
 */
        import java.util.Scanner;
 
-public class lab1b
+public class Loops1
 {
 		public static void main(String args[])
 		{
