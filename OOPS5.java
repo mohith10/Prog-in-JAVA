@@ -67,7 +67,7 @@ class Car extends MotorVehicle
 
 }
 
-public class one
+public class OOPS5
 {
 	public static void  main(String args[])
 	{

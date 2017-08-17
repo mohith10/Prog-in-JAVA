@@ -2,7 +2,7 @@
 Q. To find area of Different Polygons
 */
 
-public class test {
+public class OOPS3 {
 	public static void main(String args[])
 	{
 		triangle t=new triangle();
